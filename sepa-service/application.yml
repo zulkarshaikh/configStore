@@ -1,0 +1,4 @@
+member:
+ pmttype: SepaPayment
+environment: Default
+
