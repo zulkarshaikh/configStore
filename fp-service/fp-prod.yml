@@ -1,5 +1,4 @@
 member:
-    pmttype: FasterPayment
-   environment: Production
+ pmttype: FasterPayment
+environment: Production
 
-   

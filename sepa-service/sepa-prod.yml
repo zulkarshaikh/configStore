@@ -1,4 +1,4 @@
 member:
-    pmttype: SepaPayment
-   environment: Production
-   
+ pmttype: SepaPayment
+environment: Production
+
