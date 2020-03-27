@@ -1,0 +1,3 @@
+member:
+    pmttype: SepaPayment
+   environment: Production
