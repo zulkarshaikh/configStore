@@ -1,3 +1,4 @@
 member:
     pmttype: SepaPayment
-   environment: ualityTest
+   environment: QualityTest
+   
